@@ -1,0 +1,14 @@
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\LIstaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\LIstaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\LIstaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.AssemblyInfo.cs
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\LIstaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\LIstaDeTarefas.exe
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\LIstaDeTarefas.deps.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\LIstaDeTarefas.runtimeconfig.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\LIstaDeTarefas.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\LIstaDeTarefas.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\refint\LIstaDeTarefas.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\LIstaDeTarefas.genruntimeconfig.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\Projetos\PraticandoC\ProjetoTarefas\LIstaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ref\LIstaDeTarefas.dll
